@@ -15,6 +15,11 @@ Este notebook foi criado para ajudar iniciantes a aprender os conceitos fundamen
 
 ## Como Usar
 
+Dá pra usar este programa de três jeitos: só ler direto pelo GitHub, rodar no Jupyter no seu computador ou abrir no Google Colab pelo navegador. Recomendo usar uma das duas últimas opções, assim você pode testar os códigos na hora, fazer alterações e aprender melhor.
+
+Além de seguir os exemplos, é importante se desafiar a criar seus próprios códigos usando os conceitos aprendidos. Essa prática vai te ajudar a fixar o conhecimento e desenvolver suas habilidades mais rápido. Futuramente (daqui uns 2 dias), vou adicionar listas de desafios pra você praticar o que aprendeu e também fortalecer sua lógica de programação.
+
+Caso decida usar o Jupyter ou o Colab, aqui esta como fazer isso:
 ### No Jupyter
 
 1. **Instalar o Jupyter**: Caso ainda não tenha o Jupyter instalado, você pode fazer isso via `pip`. Basta executar o seguinte comando no terminal ou no prompt de comando:
@@ -41,7 +46,7 @@ Este notebook foi criado para ajudar iniciantes a aprender os conceitos fundamen
 
 ---
 
-## Usar o Google Colab
+## Usar no Google Colab
 
 ### Passo a Passo
 
